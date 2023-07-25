@@ -17,9 +17,9 @@ Enthusiastic and motivated self-learning in Information Technology. Interested i
 
 <p align="">
   <a href="https://www.linkedin.com/in/barokatu/">
-    <img src="https://img.shields.io/badge/-barokatu%20trihanandi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/-mohammad%20barokatu%20rizky-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:barokatuth@gmail.com">
-    <img src="https://img.shields.io/badge/barokatuth@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="mailto:rizky21id@gmail.com">
+    <img src="https://img.shields.io/badge/rizky21id@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
