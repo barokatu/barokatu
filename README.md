@@ -1,7 +1,7 @@
 
 ## Hiii!
 
-Enthusiastic and motivated self-learning in Information Technology. Interested in exploring about Software Development and Cyber Security. Now I am looking for more experience in my field.
+Enthusiastic and motivated self-learning in Information Technology. Interested in exploring about Software Development and Cyber Security.
 
 <p align="">
   <a href="https://www.linkedin.com/in/barokatu/">
